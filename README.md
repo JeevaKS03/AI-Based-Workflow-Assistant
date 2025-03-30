@@ -4,7 +4,9 @@ I created an project ai based workflow assistant using IBM watson.ai platform
 Streamlit
 
 ## Backend
-IBM Watson.ai platforn
+IBM Watson.ai platforn 
+
+
 Model used - ibm/granite-8b-instruct
 
 ## Language
