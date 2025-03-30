@@ -7,7 +7,7 @@ Streamlit
 IBM Watson.ai platforn 
 
 
-Model used - ibm/granite-8b-instruct
+Model used - ibm/granite-13b-instruct-v2
 
 ## Language
 Python
