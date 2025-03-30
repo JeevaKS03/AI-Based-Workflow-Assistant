@@ -1,13 +1,13 @@
 # AI-Based-Workflow-Assistant
 I created an project ai based workflow assistant using IBM watson.ai platform
-##Frontend
+## Frontend
 Streamlit
 
-##Backend
+## Backend
 IBM Watson.ai platforn
 Model used - ibm/granite-8b-instruct
 
-##Language
+## Language
 Python
 
 
